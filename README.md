@@ -9,6 +9,8 @@ approach to recognition problems in computer vision today–train a deep network
 enough data, and if you cannot then fine-tune a pre-trained
 network instead.
 
+**See Report for more project related details**
+
 ## The basic learning objectives of this project are:
 * Construct the fundamental pipeline for performing deep learning using PyTorch
 * Experiment with different models and observe the performance
@@ -18,4 +20,5 @@ network instead.
 * Model - an object that contains the network architecture definition 
 * Loss function - a function that measures how far the network output is from the ground truth label
 * Optimizer - an object that optimizes the network parameters to reduce the loss value
+
 
